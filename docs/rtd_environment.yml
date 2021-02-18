@@ -1,0 +1,11 @@
+name: mslicepy_rtd
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - numpy
+  - sphinx
+  - sphinx_rtd_theme
+  - mock
+  - pillow
